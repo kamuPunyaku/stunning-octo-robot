@@ -3,7 +3,7 @@ function pett() {
 
     // Ubah gambar kucing dan teks
     if (catImg.src.includes("cat.png")) {
-        catImg.src = "cat.gif";
+        catImg.src = "https://kamupunyaku.github.io/stunning-octo-robot/cat.gif";
     } else {
         catImg.src = "cat.png";
     }
