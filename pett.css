@@ -1,0 +1,30 @@
+* {
+    font-family: Monaco,'Courier New',monospace;
+}
+
+body {
+    background-color: honeydew;
+}
+
+h1 {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+#catbox {
+    background-color: azure;
+    margin: 0 auto;
+    border: 10px inset black;
+    border-radius: 30px;
+    min-height: 500px;
+}
+
+#cat {
+    display: block;
+    margin: 50% auto 50% auto;
+    width: 80%;
+}
+
+.timesfellin {
+    text-align: center;
+}
